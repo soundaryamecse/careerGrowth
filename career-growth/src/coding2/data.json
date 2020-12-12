@@ -1,0 +1,92 @@
+[
+    {
+        "title":"Software Developer",
+        "salary":"30000",
+        "company_name":"CTS",
+        "location":"bangalore",
+        "remote":"true",
+        "company_logo":"https://www.ctscorp.com/wp-content/themes/orbit-media/images/default-menu-image.png",
+        "date":"2019-12-09"
+
+    },
+    {
+        "title":"Full stack Developer",
+        "salary":"50000",
+        "company_name":"Mercury",
+        "location":"chennai",
+        "remote":"false",
+        "company_logo":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXFfGt6szJxqppUnQTmrub-DK7ZiQXcJjG5w&usqp=CAU",
+        "date":"2019-12-20"
+
+    },
+    {
+        "title":"Software",
+        "salary":"60000",
+        "company_name":"CTS",
+        "location":"bangalore",
+        "remote":"true",
+        "company_logo":"https://www.ctscorp.com/wp-content/themes/orbit-media/images/default-menu-image.png",
+        "date":"2019-12-09"
+
+    },
+    {
+        "title":"Front End Developer",
+        "salary":"90000",
+        "company_name":"CTS",
+        "location":"mumbai",
+        "remote":"false",
+        "company_logo":"https://www.ctscorp.com/wp-content/themes/orbit-media/images/default-menu-image.png",
+        "date":"2019-12-09"
+
+    },
+    {
+        "title":"Front End Developer",
+        "salary":"35000",
+        "company_name":"CTS",
+        "location":"mumbai",
+        "remote":"false",
+        "company_logo":"https://www.ctscorp.com/wp-content/themes/orbit-media/images/default-menu-image.png",
+        "date":"2019-12-09"
+
+    },
+    {
+        "title":"Front End Developer",
+        "salary":"20000",
+        "company_name":"CTS",
+        "location":"chennai",
+        "remote":"true",
+        "company_logo":"https://www.ctscorp.com/wp-content/themes/orbit-media/images/default-menu-image.png",
+        "date":"2019-12-09"
+
+    },
+    {
+        "title":"Software Developer",
+        "salary":"30000",
+        "company_name":"ABC",
+        "location":"delhi",
+        "remote":"true",
+        "company_logo":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMqS-HjDC8-0LoMh5-t1x05rYHemOnq_sDRw&usqp=CAU",
+        "date":"2019-12-09"
+
+    },
+    {
+        "title":"Software Developer",
+        "salary":"10000",
+        "company_name":"SS",
+        "location":"bangalore",
+        "remote":"true",
+        "company_logo":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCGFupaGxpFFVsQS-C4if8IWEZcmcea-tyZg&usqp=CAU",
+        "date":"2019-12-09"
+
+    },
+    {
+        "title":"Software Developer",
+        "salary":"80000",
+        "company_name":"CTS",
+        "location":"bangalore",
+        "remote":"true",
+        "company_logo":"https://www.ctscorp.com/wp-content/themes/orbit-media/images/default-menu-image.png",
+        "date":"2019-12-09"
+
+    }
+]
