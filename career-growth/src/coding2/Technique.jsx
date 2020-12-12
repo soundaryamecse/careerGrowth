@@ -20,13 +20,13 @@ export default function Technique(props)
         <TechniqueWrapper>
             <div style={{display:"flex"}}><h2>Sort By Salary</h2>
 
-            <select value={sort} name="sort" onChange={filter} style={{borderRadius:"10px",border:"none",backgroundColor:"yellow"}}>
+            <select value={sort} name="sort" onChange={filter} style={{borderRadius:"10px",border:"none"}}>
                { ['all','asc','desc'].map(item=>(<option value={item}>{item}</option>))}
             </select></div>
 
-            <div style={{display:"flex"}}><h2>Sort By Salary</h2>
+            <div style={{display:"flex"}}><h2>Filter By Location</h2>
 
-            <select value={filterloc} name="filterloc" onChange={filter} style={{borderRadius:"10px",border:"none",backgroundColor:"yellow"}}>
+            <select value={filterloc} name="filterloc" onChange={filter} style={{borderRadius:"10px",border:"none"}}>
                { ['bangalore','chennai','delhi','mumbai'].map(item=>(<option value={item}>{item}</option>))}
             </select></div>
         </TechniqueWrapper>

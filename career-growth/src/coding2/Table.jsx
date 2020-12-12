@@ -41,14 +41,14 @@ export default function Table(props)
                   
                     {/* <div><img src={URL.createObjectURL(item.company_logo)} alt="logo" /></div> */}
                     {/* <div><img src="https://img.etimg.com/thumb/msid-75080944,width-1070,height-580,imgsize-52514,overlay-economictimes/photo.jpg" alt={item.title}/></div> */}
-                    <div><img src={item.company_logo} alt ="error msg" height="40px" width="40px"/></div>
+                    <div style={{marginTop:"15px"}}><img src={item.company_logo} alt ="error msg" height="40px" width="40px" style={{objectFit:"contain"}} /></div>
                     <div><h4>{item.company_name}</h4></div>
                     <div><h4>{item.title}</h4></div>
                     <div><h4>{item.salary}</h4></div>
                     <div><h4>{item.location}</h4></div>
                     <div><h4>{item.date}</h4></div>
                     <div style={{display:"flex"}}><h4>Remote</h4>
-                    <div style={{height:"20px",maxWidth:"20px",borderRadius:"50%",background:item.remote==="true" ? "green" : "yellow"}}></div></div>                    
+                    <div style={{height:"20px",maxWidth:"20px",marginTop:"20px",borderRadius:"50%",background:item.remote==="true" ? "green" : "yellow"}}></div></div>                    
                 </Wrapper>
             ))}
         </div>
